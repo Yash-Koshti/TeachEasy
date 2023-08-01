@@ -1,0 +1,3 @@
+Admin name : Admin_1
+Faculty : E
+Student : Yash

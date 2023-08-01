@@ -1,0 +1,284 @@
+D:\WAD\TeachEasy\TeachEasy\bin\TeachEasy.dll.config
+D:\WAD\TeachEasy\TeachEasy\bin\TeachEasy.dll
+D:\WAD\TeachEasy\TeachEasy\bin\TeachEasy.pdb
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\csc.exe
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\csc.exe.config
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\csc.rsp
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\csi.exe
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\csi.exe.config
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\csi.rsp
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\Microsoft.Managed.Core.targets
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.AppContext.dll
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Collections.Immutable.dll
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Console.dll
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.IO.Compression.dll
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.IO.FileSystem.dll
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.IO.Pipes.dll
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Reflection.Metadata.dll
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Security.AccessControl.dll
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Security.Claims.dll
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Security.Principal.Windows.dll
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.ValueTuple.dll
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Xml.XPath.dll
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\vbc.exe
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\vbc.exe.config
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\vbc.rsp
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\VBCSCompiler.exe
+D:\WAD\TeachEasy\TeachEasy\bin\roslyn\VBCSCompiler.exe.config
+D:\WAD\TeachEasy\TeachEasy\bin\Antlr3.Runtime.dll
+D:\WAD\TeachEasy\TeachEasy\bin\AspNet.ScriptManager.bootstrap.dll
+D:\WAD\TeachEasy\TeachEasy\bin\AspNet.ScriptManager.jQuery.dll
+D:\WAD\TeachEasy\TeachEasy\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\WAD\TeachEasy\TeachEasy\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\WAD\TeachEasy\TeachEasy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WAD\TeachEasy\TeachEasy\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\WAD\TeachEasy\TeachEasy\bin\Microsoft.ScriptManager.WebForms.dll
+D:\WAD\TeachEasy\TeachEasy\bin\Microsoft.Web.Infrastructure.dll
+D:\WAD\TeachEasy\TeachEasy\bin\Newtonsoft.Json.dll
+D:\WAD\TeachEasy\TeachEasy\bin\System.Web.Optimization.dll
+D:\WAD\TeachEasy\TeachEasy\bin\WebGrease.dll
+D:\WAD\TeachEasy\TeachEasy\bin\System.Web.Optimization.xml
+D:\WAD\TeachEasy\TeachEasy\bin\Newtonsoft.Json.xml
+D:\WAD\TeachEasy\TeachEasy\bin\Antlr3.Runtime.pdb
+D:\WAD\TeachEasy\TeachEasy\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\WAD\TeachEasy\TeachEasy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WAD\TeachEasy\TeachEasy\obj\Debug\TeachEasy.csprojAssemblyReference.cache
+D:\WAD\TeachEasy\TeachEasy\obj\Debug\TeachEasy.csproj.CoreCompileInputs.cache
+D:\WAD\TeachEasy\TeachEasy\obj\Debug\TeachEasy.csproj.CopyComplete
+D:\WAD\TeachEasy\TeachEasy\obj\Debug\TeachEasy.dll
+D:\WAD\TeachEasy\TeachEasy\obj\Debug\TeachEasy.pdb
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\TeachEasy.dll.config
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\TeachEasy.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\TeachEasy.pdb
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\csc.exe
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\csc.exe.config
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\csc.rsp
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\csi.exe
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\csi.exe.config
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\csi.rsp
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\Microsoft.Managed.Core.targets
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\System.AppContext.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Collections.Immutable.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Console.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\System.IO.Compression.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\System.IO.FileSystem.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\System.IO.Pipes.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Reflection.Metadata.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Security.AccessControl.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Security.Claims.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Security.Principal.Windows.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\System.ValueTuple.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Xml.XmlDocument.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Xml.XPath.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\vbc.exe
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\vbc.exe.config
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\vbc.rsp
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\VBCSCompiler.exe
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\roslyn\VBCSCompiler.exe.config
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\Antlr3.Runtime.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\AspNet.ScriptManager.bootstrap.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\AspNet.ScriptManager.jQuery.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\Microsoft.ScriptManager.WebForms.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\Microsoft.Web.Infrastructure.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\Newtonsoft.Json.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\System.Web.Optimization.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\WebGrease.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\System.Web.Optimization.xml
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\Newtonsoft.Json.xml
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\Antlr3.Runtime.pdb
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\obj\Debug\TeachEasy.csproj.CoreCompileInputs.cache
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\obj\Debug\TeachEasy.csproj.CopyComplete
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\obj\Debug\TeachEasy.dll
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\obj\Debug\TeachEasy.pdb
+G:\College Practice\SEM 5\WAD\TeachEasy\TeachEasy\obj\Debug\TeachEasy.csprojAssemblyReference.cache
+E:\WAD\TeachEasy\TeachEasy\bin\TeachEasy.dll.config
+E:\WAD\TeachEasy\TeachEasy\bin\TeachEasy.dll
+E:\WAD\TeachEasy\TeachEasy\bin\TeachEasy.pdb
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\csc.exe
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\csc.exe.config
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\csc.rsp
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\csi.exe
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\csi.exe.config
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\csi.rsp
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\Microsoft.Managed.Core.targets
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.AppContext.dll
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Collections.Immutable.dll
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Console.dll
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.IO.Compression.dll
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.IO.FileSystem.dll
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.IO.Pipes.dll
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Reflection.Metadata.dll
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Security.AccessControl.dll
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Security.Claims.dll
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Security.Principal.Windows.dll
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.ValueTuple.dll
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Xml.XmlDocument.dll
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Xml.XPath.dll
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\vbc.exe
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\vbc.exe.config
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\vbc.rsp
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\VBCSCompiler.exe
+E:\WAD\TeachEasy\TeachEasy\bin\roslyn\VBCSCompiler.exe.config
+E:\WAD\TeachEasy\TeachEasy\bin\Antlr3.Runtime.dll
+E:\WAD\TeachEasy\TeachEasy\bin\AspNet.ScriptManager.bootstrap.dll
+E:\WAD\TeachEasy\TeachEasy\bin\AspNet.ScriptManager.jQuery.dll
+E:\WAD\TeachEasy\TeachEasy\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\WAD\TeachEasy\TeachEasy\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\WAD\TeachEasy\TeachEasy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WAD\TeachEasy\TeachEasy\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\WAD\TeachEasy\TeachEasy\bin\Microsoft.ScriptManager.WebForms.dll
+E:\WAD\TeachEasy\TeachEasy\bin\Microsoft.Web.Infrastructure.dll
+E:\WAD\TeachEasy\TeachEasy\bin\Newtonsoft.Json.dll
+E:\WAD\TeachEasy\TeachEasy\bin\System.Web.Optimization.dll
+E:\WAD\TeachEasy\TeachEasy\bin\WebGrease.dll
+E:\WAD\TeachEasy\TeachEasy\bin\System.Web.Optimization.xml
+E:\WAD\TeachEasy\TeachEasy\bin\Newtonsoft.Json.xml
+E:\WAD\TeachEasy\TeachEasy\bin\Antlr3.Runtime.pdb
+E:\WAD\TeachEasy\TeachEasy\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\WAD\TeachEasy\TeachEasy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WAD\TeachEasy\TeachEasy\obj\Debug\TeachEasy.csprojAssemblyReference.cache
+E:\WAD\TeachEasy\TeachEasy\obj\Debug\TeachEasy.csproj.CoreCompileInputs.cache
+E:\WAD\TeachEasy\TeachEasy\obj\Debug\TeachEasy.csproj.CopyComplete
+E:\WAD\TeachEasy\TeachEasy\obj\Debug\TeachEasy.dll
+E:\WAD\TeachEasy\TeachEasy\obj\Debug\TeachEasy.pdb
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\TeachEasy.dll.config
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\TeachEasy.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\TeachEasy.pdb
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\csc.exe
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\csc.exe.config
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\csc.rsp
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\csi.exe
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\csi.exe.config
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\csi.rsp
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\Microsoft.Managed.Core.targets
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\System.AppContext.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\System.Collections.Immutable.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\System.Console.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\System.IO.Compression.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\System.IO.FileSystem.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\System.IO.Pipes.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\System.Reflection.Metadata.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\System.Security.AccessControl.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\System.Security.Claims.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\System.Security.Principal.Windows.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\System.ValueTuple.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\System.Xml.XmlDocument.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\System.Xml.XPath.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\vbc.exe
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\vbc.exe.config
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\vbc.rsp
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\VBCSCompiler.exe
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\roslyn\VBCSCompiler.exe.config
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\Antlr3.Runtime.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\AspNet.ScriptManager.bootstrap.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\AspNet.ScriptManager.jQuery.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\Microsoft.ScriptManager.WebForms.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\Microsoft.Web.Infrastructure.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\Newtonsoft.Json.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\System.Web.Optimization.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\WebGrease.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\System.Web.Optimization.xml
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\Newtonsoft.Json.xml
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\Antlr3.Runtime.pdb
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\obj\Debug\TeachEasy.csprojAssemblyReference.cache
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\obj\Debug\TeachEasy.csproj.CoreCompileInputs.cache
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\obj\Debug\TeachEasy.csproj.CopyComplete
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\obj\Debug\TeachEasy.dll
+G:\College Practice\TeachEasy Project\TeachEasy\TeachEasy\obj\Debug\TeachEasy.pdb

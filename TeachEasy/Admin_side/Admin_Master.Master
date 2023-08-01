@@ -1,0 +1,309 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin_Master.Master.cs" Inherits="TeachEasy.Admin_side.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <meta charset="UTF-8">
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" name="viewport">
+
+    <!-- General CSS Files -->
+    <link rel="stylesheet" href="../TE_CssClass_Files/assets/modules/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../TE_CssClass_Files/assets/modules/fontawesome/css/all.min.css">
+
+    <!-- CSS Libraries -->
+
+    <!-- Template CSS -->
+    <link rel="stylesheet" href="../TE_CssClass_Files/assets/css/style.css">
+    <link rel="stylesheet" href="../TE_CssClass_Files/assets/css/components.css">
+    <!-- Start GA -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-94034622-3"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-94034622-3');
+    </script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server" class="form-inline mr-auto">
+        <div id="app">
+            <div class="main-wrapper main-wrapper-1">
+                <div class="navbar-bg"></div>
+                <nav class="navbar navbar-expand-lg main-navbar">
+                    <div class="form-inline mr-auto">
+                        <ul class="navbar-nav mr-3">
+                            <li><a href="#" data-toggle="sidebar" class="nav-link nav-link-lg"><i class="fas fa-bars"></i></a></li>
+                            <li><a href="#" data-toggle="search" class="nav-link nav-link-lg d-sm-none"><i class="fas fa-search"></i></a></li>
+                        </ul>
+                        <div class="search-element">
+                            <input class="form-control" type="search" placeholder="Search" aria-label="Search" data-width="250">
+                            <button class="btn" type="submit"><i class="fas fa-search"></i></button>
+                            <div class="search-backdrop"></div>
+
+                        </div>
+                    </div>
+                    <ul class="navbar-nav navbar-right">
+                        <li class="dropdown dropdown-list-toggle"><a href="#" data-toggle="dropdown" class="nav-link nav-link-lg message-toggle beep"><i class="far fa-envelope"></i></a>
+                            <div class="dropdown-menu dropdown-list dropdown-menu-right">
+                                <div class="dropdown-header">
+                                    Messages
+                <div class="float-right">
+                    <a href="#">Mark All As Read</a>
+                </div>
+                                </div>
+                                <div class="dropdown-list-content dropdown-list-message">
+                                    <a href="#" class="dropdown-item dropdown-item-unread">
+                                        <div class="dropdown-item-avatar">
+                                            <img alt="image" src="assets/img/avatar/avatar-1.png" class="rounded-circle">
+                                            <div class="is-online"></div>
+                                        </div>
+                                        <div class="dropdown-item-desc">
+                                            <b>Kusnaedi</b>
+                                            <p>Hello, Bro!</p>
+                                            <div class="time">10 Hours Ago</div>
+                                        </div>
+                                    </a>
+                                    <a href="#" class="dropdown-item dropdown-item-unread">
+                                        <div class="dropdown-item-avatar">
+                                            <img alt="image" src="assets/img/avatar/avatar-2.png" class="rounded-circle">
+                                        </div>
+                                        <div class="dropdown-item-desc">
+                                            <b>Dedik Sugiharto</b>
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+                                            <div class="time">12 Hours Ago</div>
+                                        </div>
+                                    </a>
+                                    <a href="#" class="dropdown-item dropdown-item-unread">
+                                        <div class="dropdown-item-avatar">
+                                            <img alt="image" src="assets/img/avatar/avatar-3.png" class="rounded-circle">
+                                            <div class="is-online"></div>
+                                        </div>
+                                        <div class="dropdown-item-desc">
+                                            <b>Agung Ardiansyah</b>
+                                            <p>Sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                                            <div class="time">12 Hours Ago</div>
+                                        </div>
+                                    </a>
+                                    <a href="#" class="dropdown-item">
+                                        <div class="dropdown-item-avatar">
+                                            <img alt="image" src="assets/img/avatar/avatar-4.png" class="rounded-circle">
+                                        </div>
+                                        <div class="dropdown-item-desc">
+                                            <b>Ardian Rahardiansyah</b>
+                                            <p>Duis aute irure dolor in reprehenderit in voluptate velit ess</p>
+                                            <div class="time">16 Hours Ago</div>
+                                        </div>
+                                    </a>
+                                    <a href="#" class="dropdown-item">
+                                        <div class="dropdown-item-avatar">
+                                            <img alt="image" src="assets/img/avatar/avatar-5.png" class="rounded-circle">
+                                        </div>
+                                        <div class="dropdown-item-desc">
+                                            <b>Alfa Zulkarnain</b>
+                                            <p>Exercitation ullamco laboris nisi ut aliquip ex ea commodo</p>
+                                            <div class="time">Yesterday</div>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class="dropdown-footer text-center">
+                                    <a href="#">View All <i class="fas fa-chevron-right"></i></a>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="dropdown dropdown-list-toggle"><a href="#" data-toggle="dropdown" class="nav-link notification-toggle nav-link-lg beep"><i class="far fa-bell"></i></a>
+                            <div class="dropdown-menu dropdown-list dropdown-menu-right">
+                                <div class="dropdown-header">
+                                    Notifications
+                <div class="float-right">
+                    <a href="#">Mark All As Read</a>
+                </div>
+                                </div>
+                                <div class="dropdown-list-content dropdown-list-icons">
+                                    <a href="#" class="dropdown-item dropdown-item-unread">
+                                        <div class="dropdown-item-icon bg-primary text-white">
+                                            <i class="fas fa-code"></i>
+                                        </div>
+                                        <div class="dropdown-item-desc">
+                                            Template update is available now!
+                    <div class="time text-primary">2 Min Ago</div>
+                                        </div>
+                                    </a>
+                                    <a href="#" class="dropdown-item">
+                                        <div class="dropdown-item-icon bg-info text-white">
+                                            <i class="far fa-user"></i>
+                                        </div>
+                                        <div class="dropdown-item-desc">
+                                            <b>You</b> and <b>Dedik Sugiharto</b> are now friends
+                    <div class="time">10 Hours Ago</div>
+                                        </div>
+                                    </a>
+                                    <a href="#" class="dropdown-item">
+                                        <div class="dropdown-item-icon bg-success text-white">
+                                            <i class="fas fa-check"></i>
+                                        </div>
+                                        <div class="dropdown-item-desc">
+                                            <b>Kusnaedi</b> has moved task <b>Fix bug header</b> to <b>Done</b>
+                                            <div class="time">12 Hours Ago</div>
+                                        </div>
+                                    </a>
+                                    <a href="#" class="dropdown-item">
+                                        <div class="dropdown-item-icon bg-danger text-white">
+                                            <i class="fas fa-exclamation-triangle"></i>
+                                        </div>
+                                        <div class="dropdown-item-desc">
+                                            Low disk space. Let's clean it!
+                    <div class="time">17 Hours Ago</div>
+                                        </div>
+                                    </a>
+                                    <a href="#" class="dropdown-item">
+                                        <div class="dropdown-item-icon bg-info text-white">
+                                            <i class="fas fa-bell"></i>
+                                        </div>
+                                        <div class="dropdown-item-desc">
+                                            Welcome to Stisla template!
+                    <div class="time">Yesterday</div>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class="dropdown-footer text-center">
+                                    <a href="#">View All <i class="fas fa-chevron-right"></i></a>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="dropdown"><a href="#" data-toggle="dropdown" class="nav-link dropdown-toggle nav-link-lg nav-link-user">
+                            <figure class="avatar mr-2 avatar-sm">
+                                <img alt="image" src="../TE_CssClass_Files/assets/img/avatar/avatar-1.png" class="rounded-circle mr-1">
+                            </figure>
+                            <div class="d-sm-none d-lg-inline-block">Hello, <%Response.Write(Session["Admin_name"]); %></div>
+                        </a>
+                            <div class="dropdown-menu dropdown-menu-right">
+                                <%--<div class="dropdown-title">Logged in 5 min ago</div>--%>
+                                <a href="Admin_Edit.aspx" class="dropdown-item has-icon">
+                                    <i class="far fa-user"></i>Profile
+                                </a>
+                                <%--<a href="features-activities.html" class="dropdown-item has-icon">
+                                    <i class="fas fa-bolt"></i>Activities
+                                </a>
+                                <a href="features-settings.html" class="dropdown-item has-icon">
+                                    <i class="fas fa-cog"></i>Settings
+                                </a>--%>
+                                <div class="dropdown-divider"></div>
+                                <a href="../Log_In.aspx" class="dropdown-item has-icon text-danger">
+                                    <i class="fas fa-sign-out-alt"></i>Logout
+                                </a>
+                            </div>
+                        </li>
+                    </ul>
+
+                </nav>
+                <div class="main-sidebar sidebar-style-2">
+                    <aside id="sidebar-wrapper">
+                        <div class="sidebar-brand">
+                            <label>TeachEasy</label>
+                        </div>
+                        <div class="sidebar-brand sidebar-brand-sm">
+                            <label>TE</label>
+                        </div>
+                        <ul class="sidebar-menu">
+                            <li class="menu-header">Dashboard</li>
+                            <li class="dropdown active">
+                                <a href="Manage_Admin.aspx" class="nav-link"><i class="fas fa-fire"></i><span>Home</span></a>
+                            </li>
+                            <li class="menu-header">Pages</li>
+                            <li>
+                                <a href="Manage_Faculty.aspx"><i class="fas fa-user-alt"></i><span>Faculty</span></a>
+                            </li>
+                            <li>
+                                <a href="Manage_Student.aspx"><i class="fas fa-user-graduate"></i><span>Student</span></a>
+                            </li>
+                            <li>
+                                <a href="Manage_Semester.aspx"><i class="far fa-object-ungroup"></i><span>Semester</span></a>
+                            </li>
+                            <li>
+                                <a href="Manage_Subject.aspx"><i class="far fa-object-ungroup"></i><span>Subject</span></a>
+                            </li>
+                            <li>
+                                <a href="Manage_Unit.aspx"><i class="far fa-object-ungroup"></i><span>Unit</span></a>
+                            </li>
+                            <li>
+                                <a href="Manage_Admission.aspx"><i class="fas fa-id-card"></i><span>Admission</span></a>
+                            </li>
+                            <li>
+                                <a href="Manage_Faculty_Subject.aspx"><i class="fas fa-book-reader"></i><span>Faculty Subject</span></a>
+                            </li>
+                        </ul>
+                    </aside>
+                </div>
+
+                <!-- Main Content -->
+                <%--<div class="main-content" style="min-width: 1349px;">
+                    <section class="section">
+                        <div class="section-header">
+                            <h1>Blank Page</h1>
+                            <div class="section-header-breadcrumb">
+                              <div class="breadcrumb-item active"><a href="#">Dashboard</a></div>
+                              <div class="breadcrumb-item"><a href="#">Bootstrap Components</a></div>
+                              <div class="breadcrumb-item">Card</div>
+                            </div>
+                        </div>
+
+                        <div class="section-body">
+                            <h2 class="section-title">Edit Chapter</h2>
+                            <p class="section-lead">
+                                On this page you can edit chapter.
+           
+                            </p>--%>
+                <asp:ContentPlaceHolder ID="body" runat="server">
+                </asp:ContentPlaceHolder>
+                <%--</div>
+                    </section>
+                </div>--%>
+                <footer class="main-footer">
+                    <div class="footer-left">
+                    </div>
+                    <div class="footer-right">
+                    </div>
+                </footer>
+            </div>
+        </div>
+
+    </form>
+    <!-- General JS Scripts -->
+    <script src="../TE_CssClass_Files/assets/modules/jquery.min.js"></script>
+    <script src="../TE_CssClass_Files/assets/modules/popper.js"></script>
+    <script src="../TE_CssClass_Files/assets/modules/tooltip.js"></script>
+    <script src="../TE_CssClass_Files/assets/modules/bootstrap/js/bootstrap.min.js"></script>
+    <script src="../TE_CssClass_Files/assets/modules/nicescroll/jquery.nicescroll.min.js"></script>
+    <script src="../TE_CssClass_Files/assets/modules/moment.min.js"></script>
+    <script src="../TE_CssClass_Files/assets/js/stisla.js"></script>
+
+    <!-- JS Libraies -->
+
+    <!-- Page Specific JS File -->
+
+    <!-- Template JS File -->
+    <script src="../TE_CssClass_Files/assets/js/scripts.js"></script>
+    <script src="../TE_CssClass_Files/assets/js/custom.js"></script>
+</body>
+</html>
+
+<%
+/*if (this.GetType().Name.Split('_')[4] == "aspx")
+{
+    Response.Write(this.GetType().Name.Split('_')[2] + ' ' + this.GetType().Name.Split('_')[3]);
+}
+else if (this.GetType().Name.Split('_')[5] == "aspx")
+{
+    Response.Write(this.GetType().Name.Split('_')[2] + ' ' + this.GetType().Name.Split('_')[3] + ' ' + this.GetType().Name.Split('_')[4]);
+}
+else
+{
+    Response.Write(this.GetType().Name.Split('_')[2] + ' ' + this.GetType().Name.Split('_')[3] + ' ' + this.GetType().Name.Split('_')[4] + ' ' + this.GetType().Name.Split('_')[5]);
+}*/
+%>
