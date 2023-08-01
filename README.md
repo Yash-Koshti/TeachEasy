@@ -5,3 +5,8 @@ This web-app works for both Faculties and Students.
 Faculties can upload videos, other documents and can also setup exams.
 Students can view all the materials and can attend the exams provided by the Faculties.
 Students can also have their custom exams which can be monitored by their faculties.
+
+# How to run these files
+Pull all the files.
+Must have Visual Studio 2019 or above.
+Open the TeachEasy.sln file in Visual Studio.
